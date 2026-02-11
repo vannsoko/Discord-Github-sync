@@ -19,14 +19,7 @@
     A syncronisation betwenn the discussion in Github and a channel in Discord.
       It doesn't support files and fotos yet.
     <br />
-    <a href="https://github.com/CoSup-Gaming/repo_name"><strong>Report Bug / Request Feature »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/CoSup-Gaming/repo_name/pulls">View Pull Requests</a>
-    ·
-    <a href="https://github.com/CoSup-Gaming/repo_name/network/dependencies">View the Dependencies</a>
-    ·
-    <a href="https://github.com/CoSup-Gaming/repo_name/actions">View Action Workflows</a>
+
   </p>
 </div>
 
